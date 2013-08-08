@@ -1,0 +1,17 @@
+#station-eblast-core-items .thead {
+	font-weight: bold;
+}
+
+#station-eblast-leaderboard label,
+#station-eblast-featured label,
+#station-eblast-core-items label,
+#station-eblast-left-ad label,
+#station-eblast-right-ad label {
+	font-weight: bold;
+}
+
+#eblast_core_items td{ padding: 9px; }
+#eblast_core_items .item td { border-top: 1px solid black; }
+#eblast_core_items .item:first-child td { border-top: none }
+
+#add_core_item { color: blue; cursor: hand; cursor: pointer; }
